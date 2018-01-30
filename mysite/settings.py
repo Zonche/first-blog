@@ -25,7 +25,7 @@ SECRET_KEY = '8gg@mhueu^k&gm6)v_5u!cob3bn74s#y@b288^uc4(i^ntp^qv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["zonche.pythonanywhere.com","127.0.0.1"]
 
 
 # Application definition
